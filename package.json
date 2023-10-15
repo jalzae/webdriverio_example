@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "name": "your-package-name",
+  "dependencies": {
+    "webdriverio": "^8.18.2"
+  }
+}
